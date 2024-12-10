@@ -16,7 +16,7 @@ class MyModel(BaseModel):
 
 
 model = OpenAIModel("gpt-4o", api_key=os.getenv("OPENAI_API_KEY"))
-agent = Agent(model)
+agent = Agent(model, result_type=MyModel)
 
 if __name__ == "__main__":
     result = agent.run_sync("The windy city in the US of A.")
