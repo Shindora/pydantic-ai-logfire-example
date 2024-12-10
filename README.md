@@ -11,7 +11,7 @@ A template project demonstrating integration of Pydantic, Logfire, and OpenAI fo
 ## Installation
 
 ```bash
-uv pip install -r pyproject.toml
+uv pip install -r pyproject.toml
 ```
 
 ## Configuration
