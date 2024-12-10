@@ -7,7 +7,7 @@ Image from Logfire:
 
 ## Prerequisites
 
-- Python 3.8+
+- Python 3.12+
 - OpenAI API key
 - Logfire API key
 
