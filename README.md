@@ -1,7 +1,11 @@
 # Pydantic Logfire OpenAI Example
 
 A template project demonstrating integration of Pydantic, Logfire, and OpenAI for structured logging and AI response generation.
-
+### Example:
+Image from Logfire:
+![image](asset/logfire.png)
+Image from Terminal:
+![image](asset/logfire_terminal.png)
 ## Prerequisites
 
 - Python 3.8+
@@ -26,10 +30,5 @@ LOGFIRE_API_KEY=your_logfire_api_key
 uv run -m hello
 ```
 
-### Example:
-Image from Logfire:
-![image](asset/logfire.png)
-Image from Terminal:
-![image](asset/logfire_terminal.png)
 ## License
 MIT
