@@ -4,8 +4,7 @@ A template project demonstrating integration of Pydantic, Logfire, and OpenAI fo
 ### Example:
 Image from Logfire:
 ![image](asset/logfire.png)
-Image from Terminal:
-![image](asset/logfire_terminal.png)
+
 ## Prerequisites
 
 - Python 3.8+
